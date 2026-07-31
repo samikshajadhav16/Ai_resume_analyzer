@@ -134,6 +134,6 @@ constants/
 - Skills Assessment
 - Actionable Improvement Tips
 
-**Your Name**
+**Samiksha Jadhav**
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/samikshajadhav16
