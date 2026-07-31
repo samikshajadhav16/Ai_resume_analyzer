@@ -38,7 +38,8 @@ export default function Home() {
     setResumes(parsedResumes ||[]);
     setLoadingResumes(false);
   }
-  },[]);
+  loadResumes();
+  },[kv]);
 
     
   return <main className="bg-[url('/images/bg-main.svg')] bg-cover">
