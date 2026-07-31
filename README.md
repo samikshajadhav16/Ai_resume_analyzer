@@ -48,7 +48,7 @@ An AI-powered Resume Analyzer that evaluates resumes using ATS (Applicant Tracki
 > Add screenshots of your application here.
 
 ### Home Page
-<img width="931" height="448" alt="image" src="https://github.com/user-attachments/assets/78934c07-3833-499a-b031-afb1f205f0a1" />
+<img width="933" height="442" alt="image" src="https://github.com/user-attachments/assets/c2c28e11-40f2-4b27-a46b-7c5fe9f78691" />
 
 ### Upload Resume
 
